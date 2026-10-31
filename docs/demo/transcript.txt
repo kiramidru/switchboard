@@ -1,0 +1,39 @@
+Switchboard — three-minute demo transcript
+
+Synthetic narration. Recorded installed-extension footage. Scan timing edited for clarity.
+
+00:00  Switchboard
+Meet Switchboard. The same website. A more manageable next step, using a single switch.
+
+00:09  The task behind the form
+A form is more than a collection of boxes. You need to find controls, enter information, understand errors, and recover your place. Limited input makes that whole journey important.
+
+00:23  A different way through
+The installed extension reads the real form and organizes its controls into sections. The website stays in charge. Switchboard provides a structured view, not a disconnected imitation.
+
+00:38  One switch selects
+Start scanning, and the blue focus moves automatically. Press Space to choose a section, then a field. A switch mapped to Space follows the same input path. Scan waits are condensed here; this is not a speed benchmark.
+
+00:56  Text entry, without a mouse
+Text entry uses a row and character keyboard. Choose a row, choose a letter, and repeat with the same switch. Here, both the name and email are entered through that path. Each applied character updates the original page. Nothing is being pasted into a separate mockup. You can pause scanning whenever you need to.
+
+01:22  Review before sending
+The same approach handles workshop options, radio buttons, and checkboxes. Once the required fields are ready, review the actual values. This screen does not submit anything. The final action still needs your explicit confirmation.
+
+01:40  A real server rejection
+Now the website rejects our request: the laser-cutting workshop is full. That response comes from the practice server. Switchboard reads the website's error and marks the section that needs attention, instead of pretending the task succeeded.
+
+01:56  Recover your place
+Return to the marked section and choose a different workshop. The correction updates the real page, and its error clears. Review again before sending. If the form changes after a review, Switchboard requires a fresh one.
+
+02:12  The website confirms
+Confirm, and the website returns a practice receipt. Switchboard quotes its response, rather than inventing success. This event is fictional; the submission and server validation are real.
+
+02:26  Local processing. Clear boundaries.
+Processing stays local, with no AI service or saved form history. Access is user activated. Websites still control their own data handling, including autosave.
+
+02:40  Tested, not overstated
+Tests cover the complete one-switch workflow and installed extension. Native forms only. Hardware and user testing come next.
+
+02:52  Switchboard
+Switchboard. A clearer path through, with the next action always yours to choose.

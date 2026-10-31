@@ -1,0 +1,59 @@
+{
+  "title": "Switchboard — The same website. Your way through.",
+  "duration": 180,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "segments": [
+    {
+      "id": "intro", "duration": 9, "kind": "graphic", "chapter": "Switchboard",
+      "narration": "Meet Switchboard. The same website. A more manageable next step, using a single switch."
+    },
+    {
+      "id": "problem", "duration": 14, "kind": "capture", "chapter": "The task behind the form",
+      "narration": "A form is more than a collection of boxes. You need to find controls, enter information, understand errors, and recover your place. Limited input makes that whole journey important."
+    },
+    {
+      "id": "activate", "duration": 15, "kind": "capture", "chapter": "A different way through",
+      "narration": "The installed extension reads the real form and organizes its controls into sections. The website stays in charge. Switchboard provides a structured view, not a disconnected imitation."
+    },
+    {
+      "id": "navigate", "duration": 18, "kind": "capture", "chapter": "One switch selects", "disclosure": "Scan waits condensed for demonstration",
+      "narration": "Start scanning, and the blue focus moves automatically. Press Space to choose a section, then a field. A switch mapped to Space follows the same input path. Scan waits are condensed here; this is not a speed benchmark."
+    },
+    {
+      "id": "type", "duration": 26, "kind": "capture", "chapter": "Text entry, without a mouse", "disclosure": "All characters entered with Space · Scan timing accelerated",
+      "narration": "Text entry uses a row and character keyboard. Choose a row, choose a letter, and repeat with the same switch. Here, both the name and email are entered through that path. Each applied character updates the original page. Nothing is being pasted into a separate mockup. You can pause scanning whenever you need to."
+    },
+    {
+      "id": "review", "duration": 18, "kind": "capture", "chapter": "Review before sending", "disclosure": "One-switch controls · Scan waits condensed",
+      "narration": "The same approach handles workshop options, radio buttons, and checkboxes. Once the required fields are ready, review the actual values. This screen does not submit anything. The final action still needs your explicit confirmation."
+    },
+    {
+      "id": "rejection", "duration": 16, "kind": "capture", "chapter": "A real server rejection", "disclosure": "Fictional booking · Real validation response",
+      "narration": "Now the website rejects our request: the laser-cutting workshop is full. That response comes from the practice server. Switchboard reads the website's error and marks the section that needs attention, instead of pretending the task succeeded."
+    },
+    {
+      "id": "recovery", "duration": 16, "kind": "capture", "chapter": "Recover your place", "disclosure": "One-switch controls · Scan waits condensed",
+      "narration": "Return to the marked section and choose a different workshop. The correction updates the real page, and its error clears. Review again before sending. If the form changes after a review, Switchboard requires a fresh one."
+    },
+    {
+      "id": "success", "duration": 14, "kind": "capture", "chapter": "The website confirms", "disclosure": "Practice receipt · No real booking or email",
+      "narration": "Confirm, and the website returns a practice receipt. Switchboard quotes its response, rather than inventing success. This event is fictional; the submission and server validation are real."
+    },
+    {
+      "id": "trust", "duration": 14, "kind": "capture", "chapter": "Local processing. Clear boundaries.",
+      "narration": "Processing stays local, with no AI service or saved form history. Access is user activated. Websites still control their own data handling, including autosave."
+    },
+    {
+      "id": "evidence", "duration": 12, "kind": "graphic", "chapter": "Tested, not overstated",
+      "narration": "Tests cover the complete one-switch workflow and installed extension. Native forms only. Hardware and user testing come next."
+    },
+    {
+      "id": "outro", "duration": 8, "kind": "graphic", "chapter": "Switchboard",
+      "narration": "Switchboard. A clearer path through, with the next action always yours to choose."
+    }
+  ]
+}

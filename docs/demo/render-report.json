@@ -1,0 +1,107 @@
+{
+  "duration": 180.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "sourceSyncOffset": 1.16,
+  "actualSpacePresses": 63,
+  "sourceNetworkResponses": [
+    {
+      "time": 91.794747085,
+      "status": 422,
+      "method": "POST"
+    },
+    {
+      "time": 123.91407798499999,
+      "status": 200,
+      "method": "POST"
+    }
+  ],
+  "narration": [
+    {
+      "id": "intro",
+      "start": 0.0,
+      "duration": 9,
+      "speechDuration": 6.432,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "problem",
+      "start": 9.0,
+      "duration": 14,
+      "speechDuration": 12.72,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "activate",
+      "start": 23.0,
+      "duration": 15,
+      "speechDuration": 13.488,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "navigate",
+      "start": 38.0,
+      "duration": 18,
+      "speechDuration": 15.048,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "type",
+      "start": 56.0,
+      "duration": 26,
+      "speechDuration": 19.944,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "review",
+      "start": 82.0,
+      "duration": 18,
+      "speechDuration": 15.912,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "rejection",
+      "start": 100.0,
+      "duration": 16,
+      "speechDuration": 14.9788125,
+      "speechRateFit": 1.0064
+    },
+    {
+      "id": "recovery",
+      "start": 116.0,
+      "duration": 16,
+      "speechDuration": 14.28,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "success",
+      "start": 132.0,
+      "duration": 14,
+      "speechDuration": 12.979229166666666,
+      "speechRateFit": 1.019076923076923
+    },
+    {
+      "id": "trust",
+      "start": 146.0,
+      "duration": 14,
+      "speechDuration": 12.456,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "evidence",
+      "start": 160.0,
+      "duration": 12,
+      "speechDuration": 8.664,
+      "speechRateFit": 1.0
+    },
+    {
+      "id": "outro",
+      "start": 172.0,
+      "duration": 8,
+      "speechDuration": 5.832,
+      "speechRateFit": 1.0
+    }
+  ]
+}

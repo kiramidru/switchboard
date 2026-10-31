@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Switchboard — One-switch forms",
+  "version": "0.1.0",
+  "description": "A user-controlled task view for supported native forms: scan, edit, review, and explicitly submit with one switch.",
+  "minimum_chrome_version": "114",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Open Switchboard on this page",
+    "default_icon": { "32": "icon32.png", "128": "icon128.png" }
+  },
+  "icons": { "32": "icon32.png", "128": "icon128.png" },
+  "background": { "service_worker": "background.js" }
+}
